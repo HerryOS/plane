@@ -116,6 +116,7 @@ class PlaneGame(object):
         pygame.quit()
         exit()
 
+
 if __name__ == '__main__':
 
     # 创建游戏对象
